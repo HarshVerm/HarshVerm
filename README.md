@@ -5,9 +5,9 @@
 <div align='center'>
   ### My stats
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=HarshVerm&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HarshVerm)]
+![Github stats](https://github-readme-stats.vercel.app/api?username=HarshVerm&&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
+
 
  </div>
 <!--
