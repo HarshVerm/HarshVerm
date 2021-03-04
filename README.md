@@ -18,7 +18,7 @@
 </p>
 
   <p align='center'>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshVerm&theme=dark&show_icons=true&count_private=true" height="207px" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshVerm&theme=dark" height="207px" />
   </p>
   
