@@ -6,7 +6,7 @@
 
 
 ### Hi there 👋,I'm Harsh Verma!
-### 🌱 I'm currently learnig Full-Stack 
+### 🌱 I'm currently learning Full-Stack 
 ### 📫 How to reach me: harsh99verma8@gmail.com
 
 
