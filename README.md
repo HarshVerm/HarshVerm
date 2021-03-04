@@ -1,14 +1,25 @@
+<div>
+    <p align='center'>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="450px"   />
+  </p>
+</div>
+
+
 ### Hi there 👋,I'm Harsh Verma!
-### 🌱 I'm currently learning MERN Stack
+### 🌱 I'm currently learnig Full-Stack 
 ### 📫 How to reach me: harsh99verma8@gmail.com
 
+
+
 <div align='center'>
-  ### My stats
+ 
   
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=HarshVerm&&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
-
-
+My Github Stats: 
+  <p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshVerm&theme=dark&show_icons=true&count_private=true" height="207px" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshVerm&theme=dark" height="207px" />
+  </p>
+  
  </div>
 <!--
 **/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
