@@ -5,9 +5,12 @@
 </div>
 
 
-### Hi there 👋,I'm Harsh Verma!
-### 🌱 I'm Full-Stack Developer
-### 📫 How to reach me: harsh99verma8@gmail.com
+<h3> Hi there 👋,I'm Harsh Verma! </h3>
+<h3>🌱 I'm Full-Stack Developer </h3>
+<h3> 📫 How to reach me: harsh99verma8@gmail.com </h3>
+
+
+
 
 
 
