@@ -28,6 +28,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HarshVerm&theme=dark&show_icons=true&count_private=true" height="207px" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshVerm&theme=dark" height="207px" />
   </p>
+    
+    <p><br><a href="#">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=HarshVerm&theme=dark" />
+</a></p>
   
  </div>
 <!--
