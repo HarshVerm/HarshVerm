@@ -29,10 +29,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshVerm&theme=dark" height="207px" />
   </p>
     
-    <p><br><a href="#">
+    
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=HarshVerm&theme=dark" />
-</a></p>
-  
+
  </div>
 <!--
 **/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
